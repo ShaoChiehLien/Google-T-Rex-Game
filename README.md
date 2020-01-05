@@ -6,3 +6,6 @@ For the main game part, we used our own algorithm to randomly produce three diff
 For the sound generation, we used the concept of Digital to Analog Conversion, Timer and Direct Memory Access to generate certain voltage ouput. By generating a wave form using the analog ouput and calculate the frequency, we could then produce each notes from C, D, E to A and B. 
 
 Last but not least, the customized printed circuit board is another specialty of this project. The development board is also acceptable for this project, but the wiring is really a pain in the ass, so we developed the circuit board and soldered the STM32f103c8t6 ourselves. The wiring map and PCB are all provided in the above file.
+
+# Project Video Demostration
+https://www.youtube.com/watch?v=Yxi9itDUQOI
